@@ -27,6 +27,6 @@ Uygulamanın nasıl çalıştığını merak mı ediyorsunuz? İşte hızlı bir
 
 | Uygulama Arayüzü                       | Tahmin Sonucu Demousu                       |
 | :------------------------------------- | :------------------------------------------ |
-| ![Uygulama Arayüzü]() | ![Tahmin Demousu]() |
+| ![Uygulama Arayüzü](images/uygulama_arayuzu.png) | ![Tahmin Demousu]() |
 
 ---
