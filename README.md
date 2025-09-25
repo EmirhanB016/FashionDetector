@@ -12,9 +12,21 @@ Bu proje, **derin öğrenme (Deep Learning)** tekniklerini kullanarak yüklediğ
 
 ## ✨ Özellikler
 
-* **Gerçek Zamanlı Tahmin:** Kullanıcıların yüklediği kıyafet fotoğrafına göre model, resmi **AJAX** kullanarak tahminin sayfa yenilenmeden anında gösterilmesini sağlar
+* **Gerçek Zamanlı Tahmin:** Kullanıcıların yüklediği kıyafet fotoğrafına göre model, resmi **AJAX** kullanarak tahminin sayfa yenilenmeden anında gösterilmesini sağlar.
 * **Kullanıcı Dostu Web Arayüzü:** HTML sayfası üzerinden fotoğraf yükleme, ve “Tahmin Et” butonu ile kolay bir kullanım sunar.
-* **API Entegrasyonu:** `/tahmin` uç noktası üzerinden dosya kabul edilir, model tahmini yapar ve yapılan tahmini döndürür.
-
+* **API Entegrasyonu:** `/tahmin` uç noktası üzerinden dosya kabul edilir, yapay zeka modeliyle tahmin yapar ve sonuç olarak tahmin edilen kıyafetin adını döndürür.
 ---
 
+## 🚀 Hızlı Başlangıç & Demo
+
+Uygulamanın nasıl çalıştığını merak mı ediyorsunuz? İşte hızlı bir bakış ve demolar:
+
+1.  **Uygulamayı Başlatın:** "Kurulum ve Çalıştırma" bölümündeki adımları takip ederek `app.py` dosyasını çalıştırın.
+2.  **Web Arayüzünü Açın:** Terminaldeki "Running on http://..." linkine tıklayın.
+3.  **Fotoğraf Yükleyin:** Arayüze bir kıyafet fotoğrafı yükleyin ve tahmin sonucunu anında görün!
+
+| Uygulama Arayüzü                       | Tahmin Sonucu Demousu                       |
+| :------------------------------------- | :------------------------------------------ |
+| ![Uygulama Arayüzü]() | ![Tahmin Demousu]() |
+
+---
